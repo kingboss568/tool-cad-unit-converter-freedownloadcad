@@ -1,0 +1,45 @@
+CAD Unit Converter
+
+CAD Unit Converter is a practical architecture library workspace for architecture student teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://units.freedownloadcad.com/
+- https://units.freedownloadcad.com/tool/
+- https://units.freedownloadcad.com/workspace/
+- https://units.freedownloadcad.com/reports/
+- https://units.freedownloadcad.com/guides/
+- https://units.freedownloadcad.com/library/
+- https://units.freedownloadcad.com/templates/
+- https://units.freedownloadcad.com/compare/
+- https://units.freedownloadcad.com/checklists/
+- https://units.freedownloadcad.com/integrations/
+- https://units.freedownloadcad.com/settings/
+- https://units.freedownloadcad.com/plans/
+- https://units.freedownloadcad.com/faq/
+- https://units.freedownloadcad.com/privacy/
+- https://units.freedownloadcad.com/about/
+- https://units.freedownloadcad.com/guides/define-terms-1/
+- https://units.freedownloadcad.com/guides/compare-materials-2/
+- https://units.freedownloadcad.com/guides/convert-units-3/
+- https://units.freedownloadcad.com/guides/prepare-notes-4/
+- https://units.freedownloadcad.com/guides/build-a-reference-set-5/
+- https://units.freedownloadcad.com/guides/export-a-glossary-6/
+- https://units.freedownloadcad.com/guides/define-terms-7/
+- https://units.freedownloadcad.com/guides/compare-materials-8/
+- https://units.freedownloadcad.com/guides/convert-units-9/
+- https://units.freedownloadcad.com/guides/prepare-notes-10/
+- https://units.freedownloadcad.com/guides/build-a-reference-set-11/
+- https://units.freedownloadcad.com/guides/export-a-glossary-12/
+- https://units.freedownloadcad.com/guides/define-terms-13/
+- https://units.freedownloadcad.com/guides/compare-materials-14/
+- https://units.freedownloadcad.com/guides/convert-units-15/
+- https://units.freedownloadcad.com/guides/prepare-notes-16/
+- https://units.freedownloadcad.com/guides/build-a-reference-set-17/
+- https://units.freedownloadcad.com/guides/export-a-glossary-18/
+- https://units.freedownloadcad.com/guides/define-terms-19/
+- https://units.freedownloadcad.com/guides/compare-materials-20/
+- https://units.freedownloadcad.com/guides/convert-units-21/
+- https://units.freedownloadcad.com/guides/prepare-notes-22/
+- https://units.freedownloadcad.com/guides/build-a-reference-set-23/
+- https://units.freedownloadcad.com/guides/export-a-glossary-24/
+- https://units.freedownloadcad.com/guides/define-terms-25/
